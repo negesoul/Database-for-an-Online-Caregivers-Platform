@@ -33,6 +33,5 @@ In this project, I designed and implemented an Online Caregivers Platform, focus
 
 7. **Data Population:**
    - Inserted diverse and meaningful data instances into each table, ensuring a non-empty result set for queries.
-   - Demonstrated proficiency in database population with at least 10 instances for each table.
 
 This project not only enhanced my database modeling skills but also provided practical insights into the development of applications reliant on efficient database structures.
